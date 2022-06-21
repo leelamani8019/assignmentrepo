@@ -1,0 +1,7 @@
+952,3ediots,Mumbai,31-05-2022 10:25:50,Active
+944,Kfg,Delhi,31-05-2022 10:25:57,Active
+351,Anime,MP,31-05-2022 10:26:25,Incative
+956,Space,UP,31-05-2022 10:26:55,Active
+
+synchronous: sequencial process
+asynchronous: non sequencial
